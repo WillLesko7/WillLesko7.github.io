@@ -6,3 +6,26 @@ body {
   background-color: #f4f4f4; /* light grey*/
 }
 
+header {
+  background-color: #4CAF50; /* green */
+  color: white; /* text color to white */
+  padding: 1em; /* even space around element*/
+}
+
+main {
+padding: 2em;
+}
+
+button {
+padding: 10px 20px;
+  font-szie: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px; /* Gives it a curved edge look */
+}
+
+button:hover {
+  background-color: #45a049;
+}
