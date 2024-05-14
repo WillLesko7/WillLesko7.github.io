@@ -29,3 +29,11 @@ padding: 10px 20px;
 button:hover {
   background-color: #45a049;
 }
+
+#myImage {
+  width: 300px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
