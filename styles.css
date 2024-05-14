@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif; /* Uses Arial unless its not found then default sans-serif*/
+  margin: 0; /*margin of 0 filling the screen*/
+  padding: 0; /*Removes the default padding which is space around an element*/
+  text-align: center; /* aligns the text*/
+  background-color: #f4f4f4; /* light grey*/
+}
+
