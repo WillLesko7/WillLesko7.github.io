@@ -12,6 +12,20 @@ header {
   padding: 1em; /* even space around element*/
 }
 
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
 main {
 padding: 2em;
 }
