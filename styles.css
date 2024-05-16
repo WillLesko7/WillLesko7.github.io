@@ -60,3 +60,43 @@ button:hover {
   border-radius: 10px; /* rounds corners */
   margin: 20px 0; /* vertical margin around image */
 }
+
+#famImage {
+  width: 600px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
+
+#friendsImage {
+  width: 600px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
+
+#esportsImage {
+  width: 600px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
+
+#esports2Image {
+  width: 600px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
+
+#broadcastImage {
+  width: 600px;
+  height: auto; /* Adjusts the height to maintain the aspect ratio */
+  border: 2px solid #4CAF50; /* Green Border */
+  border-radius: 10px; /* rounds corners */
+  margin: 20px 0; /* vertical margin around image */
+}
